@@ -148,3 +148,21 @@ This dashboard demonstrates how healthcare organizations can use operational dat
 <img width="875" height="492" alt="image" src="https://github.com/user-attachments/assets/d3d5db18-4624-4bf1-b756-83820aa6470d" />
 <img width="875" height="491" alt="image" src="https://github.com/user-attachments/assets/9bd36d12-2d36-4900-b14a-28b4bf81f4e3" />
 <img width="877" height="492" alt="image" src="https://github.com/user-attachments/assets/068e5d1b-d74c-4b10-b68a-f6ba727ab9ad" />
+
+🧠 Skills Demonstrated
+Data Cleaning
+Data Transformation
+Power Query
+DAX
+KPI Development
+Data Modeling
+Interactive Dashboard Design
+Healthcare Analytics
+Operational Analysis
+Exploratory Data Analysis
+Business Intelligence
+
+👤 Author
+Apple John Mongaya 
+Entry-Level Data Analyst | Business Intelligence | Reporting & Data Visualization
+
